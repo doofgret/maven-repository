@@ -3,14 +3,15 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-performance</artifactId>
   <versioning>
-    <latest>2.0.0-jitsi-9021454</latest>
-    <release>2.0.0-jitsi-9021454</release>
+    <latest>2.0.0-jitsi-9021549</latest>
+    <release>2.0.0-jitsi-9021549</release>
     <versions>
       <version>2.0.0-jitsi-9014330</version>
       <version>2.0.0-jitsi-9020691</version>
       <version>2.0.0-jitsi-9021195</version>
       <version>2.0.0-jitsi-9021454</version>
+      <version>2.0.0-jitsi-9021549</version>
     </versions>
-    <lastUpdated>20211110023551</lastUpdated>
+    <lastUpdated>20211110025137</lastUpdated>
   </versioning>
 </metadata>
