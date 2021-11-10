@@ -3,11 +3,12 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-keep-awake</artifactId>
   <versioning>
-    <latest>4.0.0-jitsi-9022221</latest>
-    <release>4.0.0-jitsi-9022221</release>
+    <latest>4.0.0-jitsi-9022620</latest>
+    <release>4.0.0-jitsi-9022620</release>
     <versions>
       <version>4.0.0-jitsi-9022221</version>
+      <version>4.0.0-jitsi-9022620</version>
     </versions>
-    <lastUpdated>20211110044346</lastUpdated>
+    <lastUpdated>20211110055007</lastUpdated>
   </versioning>
 </metadata>
